@@ -1,0 +1,10 @@
+name: PunishMenu
+version: @version@
+main: nl.manthos.punishmenu.PunishMenu
+api-version: 1.16
+authors: [ Manthos ]
+description: Een handig staffmenutje!
+website: discord.magemc.nl
+
+commands:
+  punish:
